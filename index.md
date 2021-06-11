@@ -14,6 +14,14 @@ Use of the shell is fundamental to using a wide range of other powerful tools
 and computing resources (including "high-performance computing" supercomputers).
 These lessons will start you on a path towards using these resources effectively.
 
+> ## Learner experience survey
+> On completion of the module, *please* complete this survey:
+>
+> <div align="center"><a href="https://protect-za.mimecast.com/s/BRYGCZ4GJ0iq3vNmUzad87">Learners experience survey link</a></div>
+>
+> Your feedback will be invaluable to developing the module for future learners!
+{: .callout}
+
 > ## Prerequisites
 >
 > This lesson guides you through the basics of file systems and the
@@ -25,3 +33,10 @@ These lessons will start you on a path towards using these resources effectively
 > searching for files with `grep` and `find`, and writing simple loops
 > and scripts, you probably want to explore the next lesson: [shell-extras](https://carpentries-incubator.github.io/shell-extras/).
 {: .prereq}
+
+## Acknowledgements
+We acknowledge the financial support from the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/) of the [National Institutes of Health](https://www.nih.gov/) who funds SickleInAfrica. The views and content expressed on this website do not necessarily reflect the views and opinions of our funders. 
+
+The content of this module was initially developed by the SADaCC team for SickleInAfrica.  
+
+We extend our gratitude to the [Software Carpentry project](https://software-carpentry.org/) who built the website template used by this module and wrote the content. 
